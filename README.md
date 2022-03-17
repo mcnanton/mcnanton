@@ -1,7 +1,6 @@
 # Hola! 👋
 [![Twitter Badge](https://img.shields.io/badge/-@bynans1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bynans1)](https://twitter.com/bynans1) 
 [![Linkedin Badge](https://img.shields.io/badge/-mariananton-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mar%C3%ADa-cristina-n-920170126/)](https://www.linkedin.com/in/mar%C3%ADa-cristina-n-920170126/) 
-#[![Website Badge](https://img.shields.io/badge/-Blog-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mcnanton.netlify.app/)](https://mcnanton.netlify.app/)
 
 Soy María, comunicóloga y data analyst de Buenos Aires, Argentina. 
 
