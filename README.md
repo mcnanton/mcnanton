@@ -1,21 +1,35 @@
-# Hola! 👋
-[![Twitter Badge](https://img.shields.io/badge/-@bynans1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bynans1)](https://twitter.com/bynans1) 
-[![Linkedin Badge](https://img.shields.io/badge/-mariananton-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mar%C3%ADa-cristina-n-920170126/)](https://www.linkedin.com/in/mar%C3%ADa-cristina-n-920170126/) 
+## Hola / Hello 👋
 
-Soy María, comunicóloga y data analyst de Buenos Aires, Argentina. 
+[ES] Soy María, Data Scientist y Maestranda en Data Mining por la Universidad de Buenos Aires.
 
-💻 Proyectos en los que colaboro:
+Coordino un equipo de ciencia de datos del Ministerio de Salud de la Ciudad de Buenos Aires y enseño programación con R, Ciencia de Datos y estadística desde hace más de 5 años.
+
+Soy organizadora de [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) e instructora certificada de [The Carpentries](https://carpentries.org/instructors/) y disfruto de trabajar en proyectos colaborativos de ciencia abierta, ciencia de datos y programación. También formo parte de [MetaDocencia](https://www.metadocencia.org/) desarrollando su infraestructura y enseñando herramientas técnicas para el desarrollo de ciencia abierta.
+
+
+
+---------------------
+
+[EN] 
+
+I'm' María, Data Scientist and master's student in Data Mining from the University of Buenos Aires.
+
+I coordinate a data science team at the Ministry of Health of the City of Buenos Aires and have also been teching R programming, Data Science and statistics for more than 5 years.
+
+I am an organizer of [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) and a certified instructor of [The Carpentries](https://carpentries.org/instructors/) and enjoy working on collaborative projects in open science, data science and programming. I am also part of [MetaDocencia](https://www.metadocencia.org/) developing its infrastructure and teaching technical tools for open science development.
+
+Translated with DeepL.com (free version)
+
+### Proyectos en los que colaboro / Projects I collaborate on:
 - [The Turing Way](https://github.com/alan-turing-institute/the-turing-way)
 - [The Carpentries](https://carpentries.org/)
+- [R Contributors](https://www.r-project.org/contributors.html)
+- [LatinR](https://latinr.org/)
 
-:star: Organizaciones de las que formo parte:
-- [RLadies Buenos Aires](https://twitter.com/RLadiesBA)
+### Lenguajes y herramientas / Languages and tools
+[![My Skills](https://skillicons.dev/icons?i=r,py,git,github,gitlab,vscode,regex,html,css,markdown&theme=light)](https://skillicons.dev)
 
-
-## Lenguajes y herramientas
-<code><img height="27" src="https://new.library.arizona.edu/sites/default/files/styles/featured_image/public/featured_media/rprogramming.png?itok=tW_Lc4a8" alt="r"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyverse.png" alt="tidyverse"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://blog.efpsa.org/wp-content/uploads/2019/04/pic1.png" alt="shiny"></code>
+### Dónde encontrarme / Where to find me 🌍
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-cristina-n-920170126/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bynans1)
+[![website Badge](https://img.shields.io/badge/Netlify-5D3FD3?style=for-the-badge&logo=netlify&logoColor=white)](https://www.metadocencia.org/authors/mcnanton/)
