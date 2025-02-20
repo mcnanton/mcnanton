@@ -18,8 +18,6 @@ I coordinate a data science team at the Ministry of Health of the City of Buenos
 
 I am an organizer of [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) and a certified instructor of [The Carpentries](https://carpentries.org/instructors/) and enjoy working on collaborative projects in open science, data science and programming. I am also part of [MetaDocencia](https://www.metadocencia.org/) developing its infrastructure and teaching technical tools for open science development.
 
-Translated with DeepL.com (free version)
-
 ### Proyectos en los que colaboro / Projects I collaborate on:
 - [The Turing Way](https://github.com/alan-turing-institute/the-turing-way)
 - [The Carpentries](https://carpentries.org/)
