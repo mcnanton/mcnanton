@@ -1,6 +1,7 @@
 ## Hola / Hello 👋
 
-[ES] Soy María, Data Scientist y Maestranda en Data Mining por la Universidad de Buenos Aires.
+**[ES]** 
+Soy María, Data Scientist y Maestranda en Data Mining por la Universidad de Buenos Aires.
 
 Coordino un equipo de ciencia de datos del Ministerio de Salud de la Ciudad de Buenos Aires y enseño programación con R, Ciencia de Datos y estadística desde hace más de 5 años.
 
@@ -10,7 +11,7 @@ Soy organizadora de [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) e in
 
 ---------------------
 
-[EN] 
+**[EN]** 
 
 I'm' María, Data Scientist and master's student in Data Mining from the University of Buenos Aires.
 
