@@ -8,8 +8,6 @@ Coordino un equipo de ciencia de datos del Ministerio de Salud de la Ciudad de B
 
 Soy organizadora de [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) e instructora certificada de [The Carpentries](https://carpentries.org/instructors/) y disfruto de trabajar en proyectos colaborativos de ciencia abierta, ciencia de datos y programación. También formo parte de [MetaDocencia](https://www.metadocencia.org/) desarrollando su infraestructura y enseñando herramientas técnicas para el desarrollo de ciencia abierta.
 
-
-
 ---------------------
 
 **[EN]** 
@@ -30,6 +28,6 @@ I am an organizer of [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) and
 [![My Skills](https://skillicons.dev/icons?i=r,py,git,github,gitlab,vscode,regex,html,css,markdown&theme=light)](https://skillicons.dev)
 
 ### Dónde encontrarme / Where to find me 🌍
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-cristina-n-920170126/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bynans1)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)]([https://www.metadocencia.org/authors/mcnanton/](https://mcnanton.github.io/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mar%C3%ADa-cristina-n-920170126/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/bynans1)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](https://mcnanton.github.io/)
