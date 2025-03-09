@@ -32,4 +32,4 @@ I am an organizer of [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) and
 ### Dónde encontrarme / Where to find me 🌍
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-cristina-n-920170126/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bynans1)
-[![website Badge](https://img.shields.io/badge/Netlify-5D3FD3?style=for-the-badge&logo=netlify&logoColor=white)](https://www.metadocencia.org/authors/mcnanton/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)]([https://www.metadocencia.org/authors/mcnanton/](https://mcnanton.github.io/)
